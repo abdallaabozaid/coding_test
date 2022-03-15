@@ -1,0 +1,21 @@
+// routes names
+const String homeScreen = '/';
+// const String
+// const String
+// const String
+// const String
+// const String
+// const String
+// const String
+// const String
+// const String
+// const String
+// const String
+// const String
+// const String
+// const String
+// const String
+// const String
+// const String
+// const String
+// const String
